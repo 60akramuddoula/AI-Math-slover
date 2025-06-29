@@ -1,4 +1,4 @@
-![Screenshot](static/images/demo.png)
+![Screenshot](https://github.com/60akramuddoula/AI-Math-slover/blob/main/Screenshot%202025-06-27%20220432.png)
 🌟 Sometimes a small spark can turn recovery time into a learning journey.
 I’d been down with a fever recently and wasn’t feeling well. But instead of just resting, an idea popped into my mind:
 “Why not build something simple and fun with a local LLM?”
